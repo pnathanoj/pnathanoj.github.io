@@ -4,6 +4,7 @@ layout: default
 ## Past Projects
 
 ### _Begonia_ unknown sp./hybrid study - AS 
+Morphological and genetic study of an unknown _Begonia_ specimen, and comparison with two known species. It implied measurements (morphology, pollen count...), sequencing of nuclear and chloroplastic loci, and phylogenetic tree reconstruction (sequences of these three _Begonia_ and closely related species from Genbank).
 
 ![](/photo/bego1.jpg)
 _Female flowers of 3 compared_ Begonia _spp.
@@ -21,18 +22,12 @@ _Board draft_
 ![](/photo/pano3.jpg)
 _Boards samples_
 
-### Succulent plant greenhouse rearrangement - QSBG
-
-
 
 ### Succulent plant book of QSBG - QSBG
 Staff may mistake species from the succulent greenhouses or nursery, hence the production of an illustrated book of the succulent collection. I created this book based on previous and new identifications (wrong or missing labels in some case). The book contains a brief introduction of the plant families contained succulent species, followed by species (associated with photo and cultivation ideas) arranged by families. Done with _Adobe InDesign_ and _Adobe Illustrator_. Printed in Chiang Mai.
 
 ![](/photo/front.jpg)
 _Book cover_
-
-![](/docs/.jpg)
-_Page example with symbols for quick understanding (crossing language barriers!)_
 
 
 ### Field Collections in Laos, Thailand, and Myanamar - QSBG, PTK
@@ -63,7 +58,7 @@ _Setting propagules survival & growth experiment, credit to Dr. Lili Wei_
 ![](/photo/fuji3.jpg)
 _Mangrove understorey in Jiulongjiang estuary_
 
-### Illustrations for mangrove species identification key - ULB
-
+### Illustrations of mangroves trees characteristics for an illustrated identification key - ULB
+As BSc final project, creation of illustrations of trees species characteristics (e.g. root type, leaf shape, fruit...) for an illustrated identification key to be used in the field by local people.
 
 [back](./)
