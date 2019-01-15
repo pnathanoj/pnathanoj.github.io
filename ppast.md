@@ -39,7 +39,7 @@ _Page example with symbols for quick understanding (crossing language barriers!)
 Help with field collections in Southern Laos (Boloven plateau), Southern Thailand (Krabi area), and Eastern Myanmar (Shan state), through collaborations of QSBG, PTK, Myanmar Herbarium, NP, and Kochi Botanic Garden. I have very little botanical knowledge, so I mainly helped with collection and pressing.
 
 ![](/photo/lao2.jpg)
-_Wet and poor habitat with_ Utricularia _sp._ and _Eriocaulon _sp. near Paksong (Laos)
+_Wet and poor habitat with_ Utricularia _sp._ and _Eriocaulon_ sp. near Paksong (Laos)
 
 ![](/photo/myan1.jpg)
 _River near Kinta dam in Shan state (Eastern Myanmar)_
