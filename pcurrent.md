@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-### Current projects
+## Current projects
 
-## Permanent plot representativeness
+### Permanent plot representativeness
 
-## UAV-based typhoon disturbances detection
+### UAV-based typhoon disturbances detection
 
 
 [back](./)
