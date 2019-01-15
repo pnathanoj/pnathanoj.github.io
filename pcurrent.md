@@ -3,9 +3,11 @@ layout: default
 ---
 ## Current projects
 
-### Permanent plot representativeness
+### Permanent plots representativeness
 
 ### UAV-based typhoon disturbances detection
+
+### Leaf wettability variation
 
 
 [back](./)
