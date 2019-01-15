@@ -30,7 +30,7 @@ Staff may mistake species from the succulent greenhouses or nursery, hence the p
 _Book cover_
 
 
-### Field Collections in Laos, Thailand, and Myanamar - QSBG, PTK
+### Field Collections in Laos, Thailand, and Myanmar - QSBG, PTK
 Help with field collections in Southern Laos (Boloven plateau), Southern Thailand (Krabi area), and Eastern Myanmar (Shan state), through collaborations of QSBG, PTK, Myanmar Herbarium, NP, and Kochi Botanic Garden. I have very little botanical knowledge, so I mainly helped with collection and pressing.
 
 ![](/photo/lao2.jpg)
