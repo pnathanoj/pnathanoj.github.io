@@ -3,11 +3,21 @@ layout: default
 ---
 ## Current projects
 
-### Permanent plots representativeness
+My current projects involve ecology, remote sensing, and agroecology to address questions related to ecosystems conservation, climate change, and socio-ecology.
 
-### UAV-based typhoon disturbances detection
+### OBSYDYA: landscapes of Central and North Benin
 
-### Leaf wettability variation
+
+
+### Sacred forests and forest conservation
+
+
+
+### Earth Observation community relationships to EO data producers
+
+
+
+### Cyclones and socio-ecological and cultural systems
 
 
 [back](./)
