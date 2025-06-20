@@ -14,6 +14,6 @@ My github page!
 
 2025/06/02 Gave a one-week introduction to Google Earth Engine to students of University of Parakou (Benin) as part of the project OBSYDYA. The course was delivered in French and the material is available on demand.
 
-2025/05/20 Participated in the second General Assemnly of the Copernicus Land Monitoring Service in Krakow.
+2025/05/20 Participated in the second General Assembly of the Copernicus Land Monitoring Service in Krakow.
 
 2024/12/01 Delivered a one-hour lecture on landscape ecology and applications of Earth Observation techniques to MSc students of National Taiwan Normal University (Taiwan).
