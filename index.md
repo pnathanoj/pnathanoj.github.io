@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am interested in collaborating with students, researchers, and any other people with overlapping interests. At the moment, I am particularly interested in applications of EO to assess the sustainability of agricultural landscapes.
+I am interested in collaborating with students and researchers with overlapping interests. At the moment, I am particularly interested in applications of EO data to assess the sustainability of agricultural landscapes.
 
 
 ### News
