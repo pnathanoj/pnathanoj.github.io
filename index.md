@@ -2,6 +2,9 @@
 layout: default
 ---
 
+I am interested in collaborating with students, researchers, and any other people with overlapping interests. At the moment, I am particularly interested in applications of EO to assess the sustainability of agricultural landscapes.
+
+
 ### News
 
 2025/06/23 My colleague Moussa El Jarroudi finished this year's sampling of foliar diseases of tritical, wheat, and barley varieties in Luxembourg.
