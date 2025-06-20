@@ -3,6 +3,26 @@ layout: default
 ---
 ## Past Projects
 
+### Assessment of Google Earth Engine-based monitoring platform of sugarcane crops dynamics - University of Liège for a private company (Africa)
+A simple GEE app was created to track intra-annual dynamics of various sugarcane plantations in an African country.
+
+
+### How do EO products users identify and select EO products to work with - University of Liège for JRC
+Several consultations were carried out between 2023 and 2024 to assess how EO product users identify and select the products they are working with.
+
+
+### Permanent forest plots representativeness of typhoon-induced damages - NTNU
+We assessed the representativeness of existing permanent forest plots for typhoon-induced canopy damages in Taiwan. Permanent plots may not be randomly located in the forest and may not accurately represent damages caused by typhoons (and therefore the forest dynamics).
+
+
+### UAV-based typhoon disturbances detection - NTNU
+Test of RGB UAV imagery to identify recent typhoon-induced disturbance on forests of northern Taiwan.
+
+
+### Leaf wettability variation - NTNU
+Assessment of leaf wettability variation across various species along a precipitation gradient in Taiwan.
+
+
 ### _Begonia_ unknown sp./hybrid study - AS 
 Morphological and genetic study of an unknown _Begonia_ specimen, and comparison with two known species. It implied measurements (morphology, pollen count...), sequencing of nuclear and chloroplastic loci, and phylogenetic tree reconstruction (sequences of these three _Begonia_ and closely related species from Genbank).
 
