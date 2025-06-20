@@ -6,9 +6,15 @@ layout: default
 ### Assessment of Google Earth Engine-based monitoring platform of sugarcane crops dynamics - University of Liège for a private company (Africa)
 A simple GEE app was created to track intra-annual dynamics of various sugarcane plantations in an African country.
 
+![](/image/GEEsugarcane.png)
+_Example of this simple tool_
+
 
 ### How do EO products users identify and select EO products to work with - University of Liège for JRC
 Several consultations were carried out between 2023 and 2024 to assess how EO product users identify and select the products they are working with.
+
+![](/image/EOexpertsconsultations.png)
+_Importance of each of 16 criteria for the selection of EO products_
 
 
 ### Permanent forest plots representativeness of typhoon-induced damages - NTNU
