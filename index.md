@@ -2,8 +2,6 @@
 layout: default
 ---
 
-My github page!
-
 ### News
 
 2025/06/23 My colleague Moussa El Jarroudi finished this year's sampling of foliar diseases of tritical, wheat, and barley varieties in Luxembourg.
