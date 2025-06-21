@@ -40,7 +40,7 @@ _Female flowers of 3 compared_ Begonia _spp.
 Creation of educational boards for the Palms Garden with information relative to palm distribution, diversity, uses as well as interesting facts. Done with _Adobe InDesign_ and _Adobe Illustrator_.
 
 ![](/photo/pano1.jpg)
-_Example for unfinished panoramical board design_
+_Example of unfinished panoramical board design_
 
 ![](/photo/pano2.jpg)
 _Board draft_
