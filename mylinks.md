@@ -8,6 +8,11 @@ layout: default
 [Kellner et al. (2025) Functional R code is rare in species distribution and abundance papers. Ecology](https://doi.org/10.1002/ecy.4475)
 
 
+#### Ecology
+
+[IGES Japanese Center for International Studies in Ecology](https://jise.jp/jp/)
+
+
 ### Culture
 
 ### Others
@@ -22,6 +27,10 @@ layout: default
 [SDG 6.6.1 related data](https://www.sdg661.app/productsmethods)
 
 [Mountain related data](https://geomountains.org/news-page-all/103-uncategorized/2106-datasets)
+
+[Native Land](https://native-land.ca/)
+
+[Society of Conservation GIS](https://scgis.memberclicks.net/)
 
 
 
